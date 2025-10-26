@@ -1,0 +1,6 @@
+required libraries
+
+numpy
+pandas
+matplotlib
+scikit-learn
